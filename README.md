@@ -29,7 +29,7 @@ pip install highway-env==1.7
 First, find the installation path of the original highway-env package:
 
 ```bash
-pip show highway_env
+pip show highway-env
 ```
 
 Then, copy all files from this repository to replace the original package:
